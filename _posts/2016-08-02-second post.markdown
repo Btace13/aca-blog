@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Making a post!
-date 08-02-2016 7:13pm
+title: "Making a post!"
+date: 08-02-2016 7:13pm
 categories:
 
 ---
